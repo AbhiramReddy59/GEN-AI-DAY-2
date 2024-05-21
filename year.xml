@@ -1,0 +1,18 @@
+<years>
+  <year>
+    <id>1</id>
+    <name>Freshman</name>
+  </year>
+  <year>
+    <id>2</id>
+    <name>Sophomore</name>
+  </year>
+  <year>
+    <id>3</id>
+    <name>Junior</name>
+  </year>
+  <year>
+    <id>4</id>
+    <name>Senior</name>
+  </year>
+</years>

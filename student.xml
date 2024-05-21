@@ -1,0 +1,20 @@
+<students>
+  <student>
+    <id>1</id>
+    <name>John Doe</name>
+    <department>Computer Science</department>
+    <year>Junior</year>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Jane Smith</name>
+    <department>Electrical Engineering</department>
+    <year>Senior</year>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Michael Brown</name>
+    <department>Mechanical Engineering</department>
+    <year>Sophomore</year>
+  </student>
+</students>

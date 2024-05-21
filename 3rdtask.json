@@ -1,0 +1,31 @@
+{
+    "department": {
+      "year": {
+        "2024": [
+          {
+            "name": "Alice",
+            "id": "001",
+            "major": "Computer Science"
+          },
+          {
+            "name": "Bob",
+            "id": "002",
+            "major": "Mechanical Engineering"
+          }
+        ],
+        "2023": [
+          {
+            "name": "Charlie",
+            "id": "003",
+            "major": "Electrical Engineering"
+          },
+          {
+            "name": "David",
+            "id": "004",
+            "major": "Civil Engineering"
+          }
+        ]
+      }
+    }
+  }
+  

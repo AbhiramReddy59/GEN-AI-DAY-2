@@ -1,0 +1,21 @@
+{
+    "years": [
+      {
+        "id": 1,
+        "name": "Freshman"
+      },
+      {
+        "id": 2,
+        "name": "Sophomore"
+      },
+      {
+        "id": 3,
+        "name": "Junior"
+      },
+      {
+        "id": 4,
+        "name": "Senior"
+      }
+    ]
+  }
+  

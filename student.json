@@ -1,0 +1,23 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "department": "Computer Science",
+        "year": "Junior"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "department": "Electrical Engineering",
+        "year": "Senior"
+      },
+      {
+        "id": 3,
+        "name": "Michael Brown",
+        "department": "Mechanical Engineering",
+        "year": "Sophomore"
+      }
+    ]
+  }
+  

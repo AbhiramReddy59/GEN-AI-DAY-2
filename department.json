@@ -1,0 +1,20 @@
+{
+    "departments": [
+      {
+        "id": 1,
+        "name": "Computer Science",
+        "head": "Dr. Smith"
+      },
+      {
+        "id": 2,
+        "name": "Electrical Engineering",
+        "head": "Dr. Johnson"
+      },
+      {
+        "id": 3,
+        "name": "Mechanical Engineering",
+        "head": "Dr. Brown"
+      }
+    ]
+  }
+  
